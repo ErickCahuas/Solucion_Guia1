@@ -5,7 +5,7 @@ public class Caso6 {
 	public static void main(String[] args) {
 		// CAST -> Convertir de un tipo de dato a otro
 		int rpta1 = (int) Math.pow(5, 3);
-		// Raiz cuadrada -> base elevada a la inversa del exp.
+		// Raiz cuadrada -> base elevada a la inversa del exp..
 		float rpta2 = (float)  Math.pow(81, 1 /  2.0);
 		float rpta3 = (float)  Math.pow(125, 1 / 3.0);
 		float rpta4 = (float)  Math.pow(256, 1 / 4.0);
